@@ -1,0 +1,70 @@
+{
+  "transactions": [
+    {
+      "date": "2026-03-26",
+      "type": "income",
+      "category": "Food",
+      "amount": 50000,
+      "note": "",
+      "_id": "1774524256182ov8k3w"
+    },
+    {
+      "date": "2026-03-26",
+      "type": "expense",
+      "category": "Entertainment",
+      "amount": 1000,
+      "note": "",
+      "_id": "1774524396881ysfoa"
+    },
+    {
+      "date": "2026-03-26",
+      "type": "expense",
+      "category": "Entertainment",
+      "amount": 5677,
+      "note": "",
+      "_id": "1774524413897hsgo0m"
+    },
+    {
+      "date": "2026-03-26",
+      "type": "expense",
+      "category": "Transport",
+      "amount": 388,
+      "note": "",
+      "_id": "17745244370303bcw3w"
+    },
+    {
+      "date": "2026-03-26",
+      "type": "expense",
+      "category": "Food",
+      "amount": 4000,
+      "note": "",
+      "_id": "17745251588012if7vl"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit": 2000
+    },
+    {
+      "category": "Transport",
+      "limit": 1000
+    },
+    {
+      "category": "Entertainment",
+      "limit": 500
+    },
+    {
+      "category": "Salary",
+      "limit": 50000
+    },
+    {
+      "category": "Grocery",
+      "limit": 5000
+    },
+    {
+      "category": "Father Salary",
+      "limit": 20000
+    }
+  ]
+}
